@@ -28,6 +28,8 @@
               <addClasspath>true</addClasspath>
               <classpathPrefix>lib/</classpathPrefix>
               <mainClass>com.mycompany.app.App</mainClass>
+              <source>11</source>   
+              <target>11</target>
             </manifest>
           </archive>
         </configuration>
