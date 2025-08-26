@@ -60,4 +60,11 @@
           </execution>
         </executions>
         <configuration>
-          <serverId>nexus-releases</
+          <serverId>nexus-releases</serverId>
+          <nexusUrl>http://192.168.1.201:8081/</nexusUrl>
+          <autoReleaseAfterClose>true</autoReleaseAfterClose>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+</project>
