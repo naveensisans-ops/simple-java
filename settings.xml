@@ -1,0 +1,14 @@
+<settings>
+  <servers>
+    <server>
+      <id>nexus-releases</id>
+      <username>Devops</username>
+      <password>Devops@123</password>
+    </server>
+    <server>
+      <id>nexus-snapshots</id>
+      <username>Devops</username>
+      <password>Devops@123</password>
+    </server>
+  </servers>
+</settings>
